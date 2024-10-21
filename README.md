@@ -7,6 +7,6 @@
 
 Target Field Example
 `"C:\Games\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe" -nomovies -nosplash -language=№*`
-`№:
-	GER-1031
+Language identifiers
+`№:GER-1031
   RUS-1049`
