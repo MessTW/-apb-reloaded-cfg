@@ -6,7 +6,7 @@
 - `-nosplash`                       - Removes initial splash screen upon boot
 
 Target Field Example
-`"C:\Games\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe" -nomovies -nosplash -language=№*`
+`"C:\Games\Steam\steamapps\common\APB Reloaded\Binaries\APB.exe" -nomovies -nosplash -language=`
 Language identifiers
-`№:GER-1031
-  RUS-1049`
+`№:GER=1031
+  RUS=1049`
