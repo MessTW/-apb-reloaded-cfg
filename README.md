@@ -4,14 +4,14 @@
 >[!NOTE]
 > 🇷🇺
 >
-> # Перед установкой обратите внимание, что если ваша система имеет оперативной памяти больше чем 32 гигабайт
+> Перед установкой обратите внимание, что если ваша система имеет оперативной памяти больше чем 32 гигабайт
 то производите установку из папки "Config 32GB RAM+", если же у вас оперативной памяти меньше 32 гигабайт,
 производите установку из папки "Config 32GB RAM-".
 
 >[!NOTE]
 > 🇬🇧
 >
-> # Before installation, please note that if your system has more than 32 gigabytes of RAM, then install from the "Config 32GB RAM+" folder, but if you have less than 32 gigabytes of RAM, then install from the "Config 32GB RAM-" folder.
+> Before installation, please note that if your system has more than 32 gigabytes of RAM, then install from the "Config 32GB RAM+" folder, but if you have less than 32 gigabytes of RAM, then install from the "Config 32GB RAM-" folder.
 
 # Launch Arguments
 
