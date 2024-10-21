@@ -4,12 +4,14 @@
 >[!NOTE]
 > 🇷🇺
 >
-> When the game updates you will have to reapply most of the config as the launcher overwrites modifications to most of the files, if something major changes it's recommended to also run the `Repair` option within the launcher to ensure all files are up to date, if there are files that change that are within the config I will be sure to update them as soon as possible.
+> # Перед установкой обратите внимание, что если ваша система имеет оперативной памяти больше чем 32 гигабайт
+то производите установку из папки "Config 32GB RAM+", если же у вас оперативной памяти меньше 32 гигабайт,
+производите установку из папки "Config 32GB RAM-".
 
 >[!NOTE]
-> 🇷🇺
+> 🇬🇧
 >
-> When the game updates you will have to reapply most of the config as the launcher overwrites modifications to most of the files, if something major changes it's recommended to also run the `Repair` option within the launcher to ensure all files are up to date, if there are files that change that are within the config I will be sure to update them as soon as possible.
+> # Before installation, please note that if your system has more than 32 gigabytes of RAM, then install from the "Config 32GB RAM+" folder, but if you have less than 32 gigabytes of RAM, then install from the "Config 32GB RAM-" folder.
 
 # Launch Arguments
 
