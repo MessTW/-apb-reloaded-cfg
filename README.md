@@ -1,10 +1,10 @@
 >[!NOTE]
-> -EN
+> 🇷🇺
 >
 > When the game updates you will have to reapply most of the config as the launcher overwrites modifications to most of the files, if something major changes it's recommended to also run the `Repair` option within the launcher to ensure all files are up to date, if there are files that change that are within the config I will be sure to update them as soon as possible.
 
 >[!NOTE]
-> -RU
+> 🇷🇺
 >
 > When the game updates you will have to reapply most of the config as the launcher overwrites modifications to most of the files, if something major changes it's recommended to also run the `Repair` option within the launcher to ensure all files are up to date, if there are files that change that are within the config I will be sure to update them as soon as possible.
 
