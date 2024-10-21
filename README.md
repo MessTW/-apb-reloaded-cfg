@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://github.com/flawsv/apb/releases/" target="_blank">config base by Flaws</a></h3>
+<h3 align="center">config base by <a href="https://github.com/flawsv/apb/releases/" target="_blank">Flaws</a></h3>
 <h3 align="center"></h3>
 
 >[!NOTE]
