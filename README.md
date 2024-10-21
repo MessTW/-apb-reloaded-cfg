@@ -1,6 +1,5 @@
 <h1 align="center"><a href="https://github.com/flawsv/apb/releases/" target="_blank">config base by Flaws</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+
 
 >[!NOTE]
 > 🇷🇺
